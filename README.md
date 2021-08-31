@@ -1,5 +1,3 @@
 # weather-app
-
-## Project Link:
-
+# Project Link: https://smmahadee.github.io/weatherApp/
 
